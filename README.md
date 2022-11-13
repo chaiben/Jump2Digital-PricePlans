@@ -1,7 +1,7 @@
 # JUMP2DIGITAL - Plan de precios
 
 This project is part of Jump2Digital Hackaton.
-You can see the final result at the github pages - [click here]()
+You can see the final result at the github pages - [click here](https://chaiben.github.io/jumpdigital-planprecios/)
 
 
 ## Requirements
@@ -27,7 +27,11 @@ Install dependencies
 Run the project
 > `npm start`
 
-Run 
+## How to deploy to git pages
+1. Run the install process. 
+2. Edit `package.json` homepage attribute to meet your git respository
+3. Run
+> `npm run deploy` 
 
 ## Folder structure
 For this project I used the atomic strucutre - ref. 1-3.
