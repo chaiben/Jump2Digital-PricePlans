@@ -1,5 +1,3 @@
-// import style from './style.module.css'
-
 const CheckIconSvg = (props) => {
   return (
     <svg className='CheckIconSvg' height='8.94' viewBox='0 0 12 10' fill='none' xmlns='http://www.w3.org/2000/svg'>
