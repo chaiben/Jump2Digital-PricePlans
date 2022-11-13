@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jumpdigital-planprecios/static/css/main.c9085242.css",
+    "main.js": "/jumpdigital-planprecios/static/js/main.3a2df2a3.js",
+    "static/js/787.fd84da6f.chunk.js": "/jumpdigital-planprecios/static/js/787.fd84da6f.chunk.js",
+    "static/media/teams.png": "/jumpdigital-planprecios/static/media/teams.86ce350d8f8237503213.png",
+    "index.html": "/jumpdigital-planprecios/index.html",
+    "main.c9085242.css.map": "/jumpdigital-planprecios/static/css/main.c9085242.css.map",
+    "main.3a2df2a3.js.map": "/jumpdigital-planprecios/static/js/main.3a2df2a3.js.map",
+    "787.fd84da6f.chunk.js.map": "/jumpdigital-planprecios/static/js/787.fd84da6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9085242.css",
+    "static/js/main.3a2df2a3.js"
+  ]
+}
