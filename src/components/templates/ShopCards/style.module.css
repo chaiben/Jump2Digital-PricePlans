@@ -1,0 +1,13 @@
+.ShopCards{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) { 
+  .ShopCards{
+    flex-direction: column;
+    align-items: center;
+  }
+}

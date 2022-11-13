@@ -1,0 +1,8 @@
+.Button{
+  border: 1px solid var(--primary-color);
+  border-radius: 0.5rem;
+  height: 2.5rem;
+  background-color: #ffffff;
+  cursor: pointer;
+  font-weight: 700;
+}

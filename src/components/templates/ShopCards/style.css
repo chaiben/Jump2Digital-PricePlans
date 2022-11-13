@@ -1,0 +1,43 @@
+.ShopCards{
+  --primary-color: black;
+  --secondary-color: #5A45F2;
+  --tertiary-color: white;
+}
+
+/* Starter */
+
+.starter button{
+  border-color: var(--secondary-color);
+}
+.starter .disabled{
+  opacity: 0.2;
+}
+
+/* Pro */
+.pro{
+  background-color: var(--secondary-color);
+  border: 3px solid var(--primary-color);
+  color: var(--tertiary-color);
+  padding: 2.5rem 1rem;
+}
+.pro button{
+  border-color: var(--primary-color);
+  background-color: var(--primary-color);
+  color: var(--tertiary-color);
+}
+.pro .disabled{
+  opacity: 0.5;
+}
+.pro .CheckIconSvg path{
+  fill: var(--tertiary-color);
+}
+
+/* Teams */
+.teams button{
+  border-color: var(--secondary-color);
+  background-color: var(--secondary-color);
+  color: var(--tertiary-color);
+}
+.teams .disabled{
+  opacity: 0.2;
+}

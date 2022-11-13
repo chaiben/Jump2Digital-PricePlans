@@ -1,0 +1,39 @@
+.Form {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+}
+.Form div {
+  font-weight: 300;
+}
+.Form input {
+  text-align: center;
+  width: 100%;
+  padding: 0.5rem 0;
+  border-radius: 0.5rem;
+}
+.FormButton {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.send{ 
+  color: var(--tertiary-color);
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.cancel{ 
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.Error{
+  color: red;
+  font-size: 0.8rem;
+}

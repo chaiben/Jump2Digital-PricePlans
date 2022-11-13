@@ -1,0 +1,17 @@
+.Card{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  min-width: 12rem;
+  width: 16rem;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  background-color: white;
+}
+
+@media (max-width: 768px) { 
+  .Card{
+    width: 80%;
+  }
+}

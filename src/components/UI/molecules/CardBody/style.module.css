@@ -1,0 +1,11 @@
+.CheckBody{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  font-size: 0.875rem;
+  font-weight: 300;
+  list-style-image: none;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}

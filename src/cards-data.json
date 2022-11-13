@@ -1,0 +1,34 @@
+{
+  "features": [
+    "Full courses library",
+    "A new daily meditation",
+    "Access to the meditation guru",
+    "Sleep podcasts and exercises",
+    "Mindfulness exercises",
+    "Guided meditations",
+    "Cooking recipes"
+  ],
+  "plans": [
+    {
+      "alias": "starter",
+      "name": "Starter",
+      "price": "Free",
+      "features_enabled": [1, 1, 1, 0, 0, 0, 0],
+      "button_label": "Get Started"
+    },
+    {
+      "alias": "pro",
+      "name": "Pro",
+      "price": "$49",
+      "features_enabled": [1, 1, 1, 1, 1, 0, 0],
+      "button_label": "Become a Pro"
+    },
+    {
+      "alias": "teams",
+      "name": "Teams",
+      "price": "$99",
+      "features_enabled": [1, 1, 1, 1, 1, 1, 1],
+      "button_label": "Get Teams"
+    }
+  ]
+}
