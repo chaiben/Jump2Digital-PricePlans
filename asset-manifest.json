@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jumpdigital-planprecios/static/css/main.c9085242.css",
-    "main.js": "/jumpdigital-planprecios/static/js/main.a5554e8e.js",
-    "static/js/787.fd84da6f.chunk.js": "/jumpdigital-planprecios/static/js/787.fd84da6f.chunk.js",
-    "static/media/logo.svg": "/jumpdigital-planprecios/static/media/logo.77cd4132ab40f3006f03.svg",
-    "static/media/teams.png": "/jumpdigital-planprecios/static/media/teams.86ce350d8f8237503213.png",
-    "index.html": "/jumpdigital-planprecios/index.html",
-    "main.c9085242.css.map": "/jumpdigital-planprecios/static/css/main.c9085242.css.map",
-    "main.a5554e8e.js.map": "/jumpdigital-planprecios/static/js/main.a5554e8e.js.map",
-    "787.fd84da6f.chunk.js.map": "/jumpdigital-planprecios/static/js/787.fd84da6f.chunk.js.map"
+    "main.css": "/Jump2Digital-PricePlans/static/css/main.c9085242.css",
+    "main.js": "/Jump2Digital-PricePlans/static/js/main.6e206768.js",
+    "static/js/787.fd84da6f.chunk.js": "/Jump2Digital-PricePlans/static/js/787.fd84da6f.chunk.js",
+    "static/media/logo.svg": "/Jump2Digital-PricePlans/static/media/logo.77cd4132ab40f3006f03.svg",
+    "static/media/teams.png": "/Jump2Digital-PricePlans/static/media/teams.86ce350d8f8237503213.png",
+    "index.html": "/Jump2Digital-PricePlans/index.html",
+    "main.c9085242.css.map": "/Jump2Digital-PricePlans/static/css/main.c9085242.css.map",
+    "main.6e206768.js.map": "/Jump2Digital-PricePlans/static/js/main.6e206768.js.map",
+    "787.fd84da6f.chunk.js.map": "/Jump2Digital-PricePlans/static/js/787.fd84da6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9085242.css",
-    "static/js/main.a5554e8e.js"
+    "static/js/main.6e206768.js"
   ]
 }
