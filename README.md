@@ -1,7 +1,7 @@
-# JUMP2DIGITAL - Plan de precios
+# JUMP2DIGITAL - Price Plans
 
 This project is part of Jump2Digital Hackaton.
-You can see the final result at the github pages - [click here](https://chaiben.github.io/jumpdigital-planprecios/)
+You can see the final result at the github pages - [click here](https://chaiben.github.io/Jump2Digital-PricePlans/)
 
 
 ## Requirements
